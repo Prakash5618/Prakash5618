@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakash5618
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in Web Developement and API
+- 🌱 I’m currently learning SAP ABAP
 - 📫 Reach me on profile(11prakash26@gmail.com)
 
 <!---
